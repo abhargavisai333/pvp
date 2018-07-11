@@ -25,5 +25,41 @@
       "institute":"NIRMALA HIGH SCHOOL",
       "data":["2014","98%"]
     }
+  ],
+  "skills":[
+    {
+      "title":"programming languages",
+      "info":["c","c++","python","java","ruby","R"]
+    },
+
+      {
+        "title":"data base management",
+        "info":["oracle","mysql","sql"]
+      },
+
+        {
+          "title":"operating systems",
+          "info":["windows","mac","unix","linux"]
+        },
+
+          {
+            "title":"web technologies",
+            "info":["html","css","javascript"]
+          }
+
+
+
+  ],
+  "achievement":[
+    {
+      "title1":"school level",
+      "info1":["regular student","prizes in elucution,essay writing"]
+    },
+    {
+      "title1":"college level",
+      "info1":["regular student","prizes in elucution,essay writing"]
+    }
+
   ]
+
 }

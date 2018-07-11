@@ -44,7 +44,7 @@ img
 @media only screen and (min-width:1024px) and (max-width:2000px){
   .parent{
     display:flex;
-    flex-direction:column;
+    flex-direction:row;
   }
   .parent{
     border:2px solid blue;
