@@ -1,0 +1,29 @@
+{
+  "profile":{
+    "name":"AKUNURIBHARGAVISAI",
+    "email":"bhargavisaiakunuri999",
+    "mobile":"33333333333",
+    "image":"honey.jpg",
+    "address":"pvpsit"
+  },
+  "career":{
+    "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+  },
+  "education":[
+    {
+      "degree":"B-Tech",
+      "institute":"pvp",
+      "data":["2016-20","96%"]
+    },
+    {
+      "degree":"intermediate",
+      "institute":"sri chaitanya jr college",
+      "data":["2014-15","97%"]
+    },
+    {
+      "degree":"SSC",
+      "institute":"NIRMALA HIGH SCHOOL",
+      "data":["2014","98%"]
+    }
+  ]
+}
